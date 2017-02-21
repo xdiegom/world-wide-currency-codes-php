@@ -10,3 +10,6 @@ Array Structure:
     &nbsp;&nbsp;&nbsp;&nbsp;'unicodeHex' => '&#xCODE'<br>
   &nbsp;&nbsp;&nbsp;&nbsp;]<br>
 ]
+
+
+Source: http://www.xe.com/symbols.php
