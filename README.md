@@ -12,4 +12,4 @@ Array Structure:
 ]
 
 
-Source: http://www.xe.com/symbols.php
+List of currencies: http://www.xe.com/symbols.php
