@@ -3,13 +3,14 @@ World Currency Codes in PHP
 
 Array Structure:
 
-[<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[
-   <br>&nbsp;&nbsp;&nbsp;&nbsp;'name' => 'currency_name',<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;'code' => 'ISO',<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;'unicodeHex' => '&#xCODE'<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;]<br>
+```php
+[
+  [
+   'name' => 'currency_name',
+   'code' => 'ISO',
+   'unicodeHex' => '&#xCODE'
+  ]
 ]
-
+```
 
 List of currencies: http://www.xe.com/symbols.php
